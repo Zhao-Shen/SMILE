@@ -4,7 +4,12 @@ clc
 
 addpath(genpath('grappa-tools'))
 
-load('K.mat')
+% Split the file due to github file limit
+load('K1.mat') 
+load('K2.mat')
+load('K3.mat')
+
+K = cat(3,K1,K2,K3);
 
 
 % CAIPI

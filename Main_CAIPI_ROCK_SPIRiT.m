@@ -6,7 +6,12 @@ addpath('ROCK_SPIRiT')
 addpath('utils_espirit')
 addpath('utils')
 
-load('K.mat')
+% Split the file due to github file limit
+load('K1.mat') 
+load('K2.mat')
+load('K3.mat')
+
+K = cat(3,K1,K2,K3);
 
 % CAIPI
 K_CAIPI = I2K(CAIPI(K2I(K)));
