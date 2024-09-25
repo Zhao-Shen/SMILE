@@ -10,3 +10,6 @@ Source codes for several algorithms are inlcuded:
 
 
 The brain dataset is from fastMRI: https://fastmri.med.nyu.edu/  
+
+# Reference
+Zhao, Shen, et al. "Whole Heart Perfusion with High-Multiband Simultaneous Multislice Imaging via Linear Phase Modulated Extended Field of View (SMILE)." arXiv preprint arXiv:2409.04353 (2024). (https://arxiv.org/abs/2409.04353)
