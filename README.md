@@ -15,8 +15,8 @@ The perfusion dataset can be downloaded from
 - 5 slices single band perfusion: https://drive.google.com/file/d/1Jvx2vEPt7Y4V_X4BZft-JSkFW4mT42XE/view?usp=drive_link
 - SMILE MB = 3 perfusion: https://drive.google.com/file/d/1TNcwleiISbD-L9aNC701ApO2qoxaI1xu/view?usp=sharing
 - SMILE MB = 5 perfusion:
--- https://drive.google.com/file/d/12X-vSvNC3vRAL89Q2CN82Qx9zWUQt-KA/view?usp=sharing
--- https://drive.google.com/file/d/1_o_ocOLyuenRXEDHbDeYqonJLvLh6HCJ/view?usp=sharing
+- https://drive.google.com/file/d/12X-vSvNC3vRAL89Q2CN82Qx9zWUQt-KA/view?usp=sharing
+- https://drive.google.com/file/d/1_o_ocOLyuenRXEDHbDeYqonJLvLh6HCJ/view?usp=sharing
 
 
 # Reference
