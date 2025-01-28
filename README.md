@@ -16,7 +16,7 @@ The perfusion dataset can be downloaded from
 - SMILE MB = 3 perfusion: https://shorturl.at/16eYD
 - SMILE MB = 5 perfusion: https://shorturl.at/OR1td, https://shorturl.at/EJTAU 
 
-We provide the detailed recosntruction code for brain dataset reconstruction, the code can be adapted for perfusion as well. Where the tuned parameters can be found in the reference.
+We provide the detailed recosntruction code for brain dataset, the preamble code can be adapted for 2D + t perfusion as well, where the tuned parameters can be found in the reference.
 
 # Reference
 Zhao, Shen, et al. "Whole Heart Perfusion with High-Multiband Simultaneous Multislice Imaging via Linear Phase Modulated Extended Field of View (SMILE)." arXiv preprint arXiv:2409.04353 (2024). (https://arxiv.org/abs/2409.04353)
