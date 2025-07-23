@@ -9,8 +9,8 @@ Source codes for several algorithms are inlcuded:
 
 
 
-The brain dataset is from fastMRI: https://fastmri.med.nyu.edu/  
-The perfusion dataset can be downloaded from 
+Example brain datasets are from fastMRI: https://fastmri.med.nyu.edu/  
+Example perfusion datasets can be downloaded from 
 - 3 slices single band perfusion: https://drive.google.com/file/d/1dnYLOkC_2J-eDtJdnSwv6OMmU-4eD13v/view?usp=drive_link
 - 5 slices single band perfusion: https://drive.google.com/file/d/1Jvx2vEPt7Y4V_X4BZft-JSkFW4mT42XE/view?usp=drive_link
 - SMILE MB = 3 perfusion: https://drive.google.com/file/d/1TNcwleiISbD-L9aNC701ApO2qoxaI1xu/view?usp=drive_link
