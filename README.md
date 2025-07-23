@@ -13,7 +13,7 @@ The brain dataset is from fastMRI: https://fastmri.med.nyu.edu/
 The perfusion dataset can be downloaded from 
 - 3 slices single band perfusion: https://drive.google.com/file/d/1dnYLOkC_2J-eDtJdnSwv6OMmU-4eD13v/view?usp=drive_link
 - 5 slices single band perfusion: https://drive.google.com/file/d/1Jvx2vEPt7Y4V_X4BZft-JSkFW4mT42XE/view?usp=drive_link
-- SMILE MB = 3 https://drive.google.com/file/d/1TNcwleiISbD-L9aNC701ApO2qoxaI1xu/view?usp=drive_link
+- SMILE MB = 3 perfusion: https://drive.google.com/file/d/1TNcwleiISbD-L9aNC701ApO2qoxaI1xu/view?usp=drive_link
 - SMILE MB = 5 perfusion: https://drive.google.com/file/d/12X-vSvNC3vRAL89Q2CN82Qx9zWUQt-KA/view?usp=drive_link, https://drive.google.com/file/d/1_o_ocOLyuenRXEDHbDeYqonJLvLh6HCJ/view?usp=drive_link
 
 We provide the detailed recosntruction code for brain dataset, the preamble code can be adapted for 2D + t perfusion as well, where the tuned parameters can be found in the reference.
